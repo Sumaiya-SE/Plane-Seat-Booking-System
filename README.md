@@ -46,7 +46,7 @@ This project demonstrates **file handling, input validation, OOP concepts, and u
   Amount: £200
 
 
-# ▶️How to Run the Project
+## ▶️How to Run the Project
 
 1. Clone the repository and navigate into the project folder:
 
