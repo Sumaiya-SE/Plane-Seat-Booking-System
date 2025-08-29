@@ -1,0 +1,6 @@
+Row: 2 | Seat: D2 | Class: Business | Passenger: John Doe | Email: john_90@gmail.org | Price: £120
+
+Row: 3 | Seat: B3 | Class: Economy | Passenger: austin | Email: austindrake67@gmail.com | Price: £70
+
+Row: 3 | Seat: F3 | Class: Economy | Passenger: Nelson | Email: hinelson76@yahoo.com | Price: £70
+
